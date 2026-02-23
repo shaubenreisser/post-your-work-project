@@ -1,4 +1,4 @@
-**Note**: This is a **fork** of [Udacity project]("https://github.com/udacity/post-your-work-project.git")
+**Note**: This is a **fork** of [Udacity project](https://github.com/udacity/post-your-work-project.git)
 
 # Bikeshare
 
