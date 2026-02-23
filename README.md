@@ -1,6 +1,6 @@
 >**Note**: This is a **fork** of this [Udacity project]("https://github.com/udacity/post-your-work-project.git")
 
-# Bike Share
+# Bikeshare
 
 This project allows to analyze data for bike sharing in the US.
 
