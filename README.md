@@ -2,7 +2,7 @@
 
 # Bikeshare
 
-This project allows to analyze data for bike sharing in the US.
+The goal of the Bikeshare project is to use Python to explore data related to bike share systems. It includes one Python file and one or more .csv (not version controlled) data files.
 
 ## Information about how to use your project
 
